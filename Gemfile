@@ -14,6 +14,7 @@ gem "rake"
 gem "rake-compiler"
 gem "minitest", "~> 5.0"
 gem "mocha"
+gem "openssl", "~> 2.2.0"
 
 group :development do
   gem "rubocop", "~> 1.28.2" # Ruby 2.5 support
